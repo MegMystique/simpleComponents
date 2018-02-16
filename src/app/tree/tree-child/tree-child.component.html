@@ -1,0 +1,7 @@
+<li *ngFor="let child of tree">{{child.name}}<span *ngIf="!child.open&&child.children && child.children.length"
+                                                   (click)="child.open = true"><i class="fa fa-caret-down"></i> </span>
+  <span *ngIf="child.open" (click)="child.open = false"><i class="fa fa-caret-up"></i></span>
+  <ul *ngIf="child.children && child.children.length&&child.open">
+    <app-tree-child [tree]="child.children"></app-tree-child>
+  </ul>
+</li>

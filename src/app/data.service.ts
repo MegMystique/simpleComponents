@@ -22,4 +22,7 @@ export class DataService {
   search(searchText) {
     this.streamData.next(this.result.filter(item => item.title.toLowerCase().includes(searchText.toLowerCase())).slice());
   }
+  setTreeData() {
+    return this.http.get('assets/tree.json');
+  }
 }
