@@ -1,0 +1,11 @@
+<p>
+  autocomplete works!
+</p>
+<input type="text" [(ngModel)]="searchText" (input)="search(searchText)" title="text">
+<div style="border: black 1px solid; position: absolute; background-color: white">
+  <div *ngFor="let item of vacancies" (click)="select(item)">{{item.title}}</div>
+</div>
+<hr>
+<div *ngIf="current">
+  {{current.title}}
+</div>
