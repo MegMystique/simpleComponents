@@ -1,0 +1,552 @@
+{
+  "clusters": null,
+  "items": [
+    {
+      "salary": {
+        "to": null,
+        "gross": true,
+        "from": 100000,
+        "currency": "RUR"
+      },
+      "snippet": {
+        "requirement": "Все ваши лучшие деловые и человеческие качества. Искреннее желание и стремление много работать и много зарабатывать. Активная жизненная позиция и...",
+        "responsibility": "Работа с VIP- клиентами компании. Презентация риэлторской услуги. Заключение договоров. Ведение переговоров с клиентами. Продажа элитной недвижимости в Калининграде и..."
+      },
+      "archived": false,
+      "premium": false,
+      "name": "Эксперт по недвижимости",
+      "area": {
+        "url": "https://api.hh.ru/areas/41",
+        "id": "41",
+        "name": "Калининград"
+      },
+      "url": "https://api.hh.ru/vacancies/24275811?host=hh.ru",
+      "created_at": "2018-03-06T16:52:45+0300",
+      "alternate_url": "https://hh.ru/vacancy/24275811",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=24275811",
+      "relations": [],
+      "employer": {
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=761892",
+        "name": "ИНВЕНТ",
+        "url": "https://api.hh.ru/employers/761892",
+        "alternate_url": "https://hh.ru/employer/761892",
+        "id": "761892",
+        "trusted": true
+      },
+      "response_letter_required": false,
+      "published_at": "2018-03-06T16:52:45+0300",
+      "address": {
+        "building": "50",
+        "city": "Калининград",
+        "description": null,
+        "metro": null,
+        "metro_stations": [],
+        "raw": null,
+        "street": "Московский проспект",
+        "lat": 54.709278,
+        "lng": 20.505133,
+        "id": "621095"
+      },
+      "department": null,
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "id": "24275811"
+    },
+    {
+      "salary": {
+        "to": null,
+        "gross": true,
+        "from": 30000,
+        "currency": "RUR"
+      },
+      "snippet": {
+        "requirement": "Опыт организации бизнес-мероприятий (выставок, семинаров). Опыт работы в команде, гибкость. Высшее образование. Грамотная речь, дипломатичность, коммуникабельность, знание делового этикета...",
+        "responsibility": "Организация бизнес-мероприятий (конференции, конгрессы, выставки) полностью, на всех этапах и присутствие на мероприятиях. Взаимодействие с участниками рабочей группы проекта. "
+      },
+      "archived": false,
+      "premium": false,
+      "name": "Менеджер по организации мероприятий со знанием испанского языка",
+      "area": {
+        "url": "https://api.hh.ru/areas/104",
+        "id": "104",
+        "name": "Челябинск"
+      },
+      "url": "https://api.hh.ru/vacancies/24705501?host=hh.ru",
+      "created_at": "2018-03-06T16:43:15+0300",
+      "alternate_url": "https://hh.ru/vacancy/24705501",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=24705501",
+      "relations": [],
+      "employer": {
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/1797638.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/1797639.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/338843.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2410729",
+        "name": "Vostock Capital (UK) Ltd",
+        "url": "https://api.hh.ru/employers/2410729",
+        "alternate_url": "https://hh.ru/employer/2410729",
+        "id": "2410729",
+        "trusted": true
+      },
+      "response_letter_required": false,
+      "published_at": "2018-03-06T16:43:15+0300",
+      "address": {
+        "building": "45А",
+        "city": "Челябинск",
+        "description": null,
+        "metro": null,
+        "metro_stations": [],
+        "raw": null,
+        "street": "улица Елькина",
+        "lat": 55.161095,
+        "lng": 61.398799,
+        "id": "771443"
+      },
+      "department": null,
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "id": "24705501"
+    },
+    {
+      "salary": null,
+      "snippet": {
+        "requirement": "Высшее профильное образование. Опыт разработки от года программы 1С, знание CRM 2.0. Использование типового кода. Знания современных методик...",
+        "responsibility": "Развитие и поддержка своих баз данных УТ 11 + CRM 2.0 и Бухгалтерии 3.0. Разработка нового функционала в..."
+      },
+      "archived": false,
+      "premium": false,
+      "name": "Программист-аналитик 1С",
+      "area": {
+        "url": "https://api.hh.ru/areas/1",
+        "id": "1",
+        "name": "Москва"
+      },
+      "url": "https://api.hh.ru/vacancies/24621436?host=hh.ru",
+      "created_at": "2018-03-06T16:42:57+0300",
+      "alternate_url": "https://hh.ru/vacancy/24621436",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=24621436",
+      "relations": [],
+      "employer": {
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/2036194.png",
+          "240": "https://hhcdn.ru/employer-logo/2036195.png",
+          "original": "https://hhcdn.ru/employer-logo-original/398485.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2730053",
+        "name": "Парус электро",
+        "url": "https://api.hh.ru/employers/2730053",
+        "alternate_url": "https://hh.ru/employer/2730053",
+        "id": "2730053",
+        "trusted": true
+      },
+      "response_letter_required": false,
+      "published_at": "2018-03-06T16:42:57+0300",
+      "address": null,
+      "department": null,
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "id": "24621436"
+    },
+    {
+      "salary": {
+        "to": 19500,
+        "gross": true,
+        "from": 19500,
+        "currency": "RUR"
+      },
+      "snippet": {
+        "requirement": "Образование не ниже среднего профессионального (технические специальности). Знание устройств и принципов работы машин и механизмов. Уверенное знание ПК.",
+        "responsibility": "Наблюдение за работой компрессорного оборудования, обслуживание и мелкий ремонт компрессоров и распылителей. Ведение документооборота подразделения."
+      },
+      "archived": false,
+      "premium": false,
+      "name": "Машинист компрессорных установок",
+      "area": {
+        "url": "https://api.hh.ru/areas/76",
+        "id": "76",
+        "name": "Ростов-на-Дону"
+      },
+      "url": "https://api.hh.ru/vacancies/23935608?host=hh.ru",
+      "created_at": "2018-03-06T16:41:09+0300",
+      "alternate_url": "https://hh.ru/vacancy/23935608",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=23935608",
+      "relations": [],
+      "employer": {
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/331007.png",
+          "original": "https://hhcdn.ru/employer-logo-original/210799.gif",
+          "240": "https://hhcdn.ru/employer-logo/403864.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=95059",
+        "name": "Ростовводоканал",
+        "url": "https://api.hh.ru/employers/95059",
+        "alternate_url": "https://hh.ru/employer/95059",
+        "id": "95059",
+        "trusted": true
+      },
+      "response_letter_required": false,
+      "published_at": "2018-03-06T16:41:09+0300",
+      "address": {
+        "building": "293",
+        "city": "Ростов-на-Дону",
+        "description": null,
+        "metro": null,
+        "metro_stations": [],
+        "raw": null,
+        "street": "улица Максима Горького",
+        "lat": 47.23253,
+        "lng": 39.740282,
+        "id": "199608"
+      },
+      "department": null,
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "id": "23935608"
+    },
+    {
+      "salary": {
+        "to": null,
+        "gross": false,
+        "from": 25000,
+        "currency": "RUR"
+      },
+      "snippet": {
+        "requirement": "не сетевой маркетинг. - необходимо медицинское образование.",
+        "responsibility": "большое количество клиентов!!!"
+      },
+      "archived": false,
+      "premium": false,
+      "name": "Косметолог-эстетист",
+      "area": {
+        "url": "https://api.hh.ru/areas/92",
+        "id": "92",
+        "name": "Тула"
+      },
+      "url": "https://api.hh.ru/vacancies/22143715?host=hh.ru",
+      "created_at": "2018-03-06T16:41:01+0300",
+      "alternate_url": "https://hh.ru/vacancy/22143715",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=22143715",
+      "relations": [],
+      "employer": {
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2773288",
+        "name": "Nika Nagel",
+        "url": "https://api.hh.ru/employers/2773288",
+        "alternate_url": "https://hh.ru/employer/2773288",
+        "id": "2773288",
+        "trusted": true
+      },
+      "response_letter_required": false,
+      "published_at": "2018-03-06T16:41:01+0300",
+      "address": null,
+      "department": null,
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "id": "22143715"
+    },
+    {
+      "salary": {
+        "to": 17000,
+        "gross": true,
+        "from": 15000,
+        "currency": "RUR"
+      },
+      "snippet": {
+        "requirement": "Среднее образование. - Возможно, без опыта работы.",
+        "responsibility": "Согласно должностной инструкции."
+      },
+      "archived": false,
+      "premium": false,
+      "name": "Уборщица/уборщик",
+      "area": {
+        "url": "https://api.hh.ru/areas/131",
+        "id": "131",
+        "name": "Симферополь"
+      },
+      "url": "https://api.hh.ru/vacancies/24102092?host=hh.ru",
+      "created_at": "2018-03-06T16:34:03+0300",
+      "alternate_url": "https://hh.ru/vacancy/24102092",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=24102092",
+      "relations": [],
+      "employer": {
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2943041",
+        "name": "Сервис Групп Плюс",
+        "url": "https://api.hh.ru/employers/2943041",
+        "alternate_url": "https://hh.ru/employer/2943041",
+        "id": "2943041",
+        "trusted": true
+      },
+      "response_letter_required": false,
+      "published_at": "2018-03-06T16:34:03+0300",
+      "address": null,
+      "department": null,
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "id": "24102092"
+    },
+    {
+      "salary": null,
+      "snippet": {
+        "requirement": "Наличие собственного автомобиля. Активная жизненная позиция. Доброжелательность. Стрессоустойчивость. Желание работать и зарабатывать.",
+        "responsibility": "Привлечение новых клиентов. Работа с существующей клиентской базой. Поиск новых клиентов. Выполнение планов продаж. Расширение ассортимента в торговых точках. "
+      },
+      "archived": false,
+      "premium": false,
+      "name": "Торговый представитель",
+      "area": {
+        "url": "https://api.hh.ru/areas/1717",
+        "id": "1717",
+        "name": "Александров"
+      },
+      "url": "https://api.hh.ru/vacancies/23373564?host=hh.ru",
+      "created_at": "2018-03-06T16:32:57+0300",
+      "alternate_url": "https://hh.ru/vacancy/23373564",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=23373564",
+      "relations": [],
+      "employer": {
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/1635346.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/298242.JPG",
+          "240": "https://hhcdn.ru/employer-logo/1635347.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=215960",
+        "name": "Владимирский хлебокомбинат",
+        "url": "https://api.hh.ru/employers/215960",
+        "alternate_url": "https://hh.ru/employer/215960",
+        "id": "215960",
+        "trusted": true
+      },
+      "response_letter_required": false,
+      "published_at": "2018-03-06T16:32:57+0300",
+      "address": null,
+      "department": null,
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "id": "23373564"
+    },
+    {
+      "salary": null,
+      "snippet": {
+        "requirement": "Высшее/ неоконченное высшее техническое/экономическое образование. Знание основ алгоритмизации и программирования. Хорошее знание бухгалтерского учета, конфигурации 1С:Бухгалтерия 8.. ",
+        "responsibility": "Участие в проектах автоматизации лизинговых компаний с использованием типовых отраслевых решений Хомнет Лизинг. Анализ требований клиентов, ведение переговоров с клиентами. "
+      },
+      "archived": false,
+      "premium": false,
+      "name": "Программист 1С",
+      "area": {
+        "url": "https://api.hh.ru/areas/1",
+        "id": "1",
+        "name": "Москва"
+      },
+      "url": "https://api.hh.ru/vacancies/23795706?host=hh.ru",
+      "created_at": "2018-03-06T16:32:54+0300",
+      "alternate_url": "https://hh.ru/vacancy/23795706",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=23795706",
+      "relations": [],
+      "employer": {
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/2093378.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/2093379.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/412826.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=115972",
+        "name": "Хомнет, Группа Компаний",
+        "url": "https://api.hh.ru/employers/115972",
+        "alternate_url": "https://hh.ru/employer/115972",
+        "id": "115972",
+        "trusted": true
+      },
+      "response_letter_required": false,
+      "published_at": "2018-03-06T16:32:54+0300",
+      "address": {
+        "building": "1с1",
+        "city": "Москва",
+        "description": null,
+        "metro": {
+          "line_name": "Серпуховско-Тимирязевская",
+          "station_id": "9.142",
+          "line_id": "9",
+          "lat": 55.70961,
+          "station_name": "Тульская",
+          "lng": 37.622569
+        },
+        "metro_stations": [
+          {
+            "line_name": "Серпуховско-Тимирязевская",
+            "station_id": "9.142",
+            "line_id": "9",
+            "lat": 55.70961,
+            "station_name": "Тульская",
+            "lng": 37.622569
+          }
+        ],
+        "raw": "Москва, Варшавское шоссе, дом 1, строение 1-2 (бизнес-центр W-Plaza)",
+        "street": "Варшавское шоссе",
+        "lat": 55.703987,
+        "lng": 37.626187,
+        "id": "199799"
+      },
+      "department": null,
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "id": "23795706"
+    },
+    {
+      "salary": null,
+      "snippet": {
+        "requirement": "Образование высшее электрооборудование летательных аппаратов, квалификация инженер-электрик. Умение работать в программах Microsoft Office (Visio, Word, Excel, Power Point), Autodesk...",
+        "responsibility": "Ведение разработок. Техническое сопровождение при изготовлении. Организация испытаний."
+      },
+      "archived": false,
+      "premium": false,
+      "name": "Инженер-конструктор (электрооборудование летательных аппаратов)",
+      "area": {
+        "url": "https://api.hh.ru/areas/92",
+        "id": "92",
+        "name": "Тула"
+      },
+      "url": "https://api.hh.ru/vacancies/24098591?host=hh.ru",
+      "created_at": "2018-03-06T16:31:02+0300",
+      "alternate_url": "https://hh.ru/vacancy/24098591",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=24098591",
+      "relations": [],
+      "employer": {
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/1997926.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/388918.jpg",
+          "240": "https://hhcdn.ru/employer-logo/1997927.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1697545",
+        "name": "Сплав, Тула",
+        "url": "https://api.hh.ru/employers/1697545",
+        "alternate_url": "https://hh.ru/employer/1697545",
+        "id": "1697545",
+        "trusted": true
+      },
+      "response_letter_required": false,
+      "published_at": "2018-03-06T16:31:02+0300",
+      "address": {
+        "building": "33",
+        "city": "Тула",
+        "description": null,
+        "metro": null,
+        "metro_stations": [],
+        "raw": null,
+        "street": "улица Щегловская Засека",
+        "lat": 54.2206723679,
+        "lng": 37.6957672566,
+        "id": "757682"
+      },
+      "department": null,
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "id": "24098591"
+    },
+    {
+      "salary": null,
+      "snippet": {
+        "requirement": "Наличие сертификата специалиста.",
+        "responsibility": "Организовать амбулаторный прием врача- терапевта участкового, обеспечивать его индивидуальными картами амбулаторных больных, бланками рецептов, направлений, подготавливать к работе приборы, инструменты. "
+      },
+      "archived": false,
+      "premium": false,
+      "name": "Участковая медицинская сестра взрослой поликлиники",
+      "area": {
+        "url": "https://api.hh.ru/areas/78",
+        "id": "78",
+        "name": "Самара"
+      },
+      "url": "https://api.hh.ru/vacancies/23761910?host=hh.ru",
+      "created_at": "2018-03-06T16:23:00+0300",
+      "alternate_url": "https://hh.ru/vacancy/23761910",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=23761910",
+      "relations": [],
+      "employer": {
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/1610354.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/291990.jpg",
+          "240": "https://hhcdn.ru/employer-logo/1610355.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1291951",
+        "name": "ГБУЗ СО Самарская городская больница №8",
+        "url": "https://api.hh.ru/employers/1291951",
+        "alternate_url": "https://hh.ru/employer/1291951",
+        "id": "1291951",
+        "trusted": true
+      },
+      "response_letter_required": false,
+      "published_at": "2018-03-06T16:23:00+0300",
+      "address": {
+        "building": "169",
+        "city": "Самара",
+        "description": null,
+        "metro": {
+          "line_name": "Первая",
+          "station_id": "54.313",
+          "line_id": "54",
+          "lat": 53.212997,
+          "station_name": "Безымянка",
+          "lng": 50.248891
+        },
+        "metro_stations": [
+          {
+            "line_name": "Первая",
+            "station_id": "54.313",
+            "line_id": "54",
+            "lat": 53.212997,
+            "station_name": "Безымянка",
+            "lng": 50.248891
+          }
+        ],
+        "raw": null,
+        "street": "Мирная улица",
+        "lat": 53.237882,
+        "lng": 50.248954,
+        "id": "566946"
+      },
+      "department": null,
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "id": "23761910"
+    }
+  ],
+  "pages": 100,
+  "arguments": null,
+  "found": 30,
+  "alternate_url": "https://hh.ru/search/vacancy?enable_snippets=true",
+  "per_page": 20,
+  "page": 0
+}

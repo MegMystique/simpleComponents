@@ -10,6 +10,8 @@ import {FormsModule} from '@angular/forms';
 import { TreeComponent } from './tree/tree.component';
 import { TreeChildComponent } from './tree/tree-child/tree-child.component';
 import {AngularFontAwesomeModule} from 'angular-font-awesome';
+import { VacanciesComponent } from './vacancies/vacancies.component';
+import { VacancyComponent } from './vacancies/vacancy/vacancy.component';
 
 
 @NgModule({
@@ -17,7 +19,9 @@ import {AngularFontAwesomeModule} from 'angular-font-awesome';
     AppComponent,
     AutocompleteComponent,
     TreeComponent,
-    TreeChildComponent
+    TreeChildComponent,
+    VacanciesComponent,
+    VacancyComponent
   ],
   imports: [
     BrowserModule,

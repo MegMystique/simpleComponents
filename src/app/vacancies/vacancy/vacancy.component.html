@@ -1,0 +1,7 @@
+<h1 class="display-4">{{vacancy.name}}</h1>
+<span *ngIf="vacancy.type">{{vacancy.type.name}}</span>
+<mark *ngIf="vacancy.salary">{{vacancy.salary.from}} {{vacancy.salary.currency}}</mark>
+<blockquote class="blockquote" *ngIf="vacancy.snippet">
+  <p class="mb-0">{{vacancy.snippet.requirement}}</p>
+  <footer class="blockquote-footer">{{vacancy.snippet.responsibility}}</footer>
+</blockquote>

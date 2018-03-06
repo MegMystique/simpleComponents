@@ -1,0 +1,584 @@
+{
+  "clusters": null,
+  "items": [
+    {
+      "salary": null,
+      "snippet": {
+        "requirement": "Свободное владение Java 7 и/или 8. Практическое владение языком SQL. Навыки проектирования и реализации сложных алгоритмов. Высшее техническое образование. ",
+        "responsibility": "Разработка бизнес-логики и back-end системы для поддержки приложения. Создание функциональных API. Проектирование и разработка единой библиотеки компонентов. "
+      },
+      "archived": false,
+      "premium": false,
+      "name": "Senior Java Developer",
+      "area": {
+        "url": "https://api.hh.ru/areas/1002",
+        "id": "1002",
+        "name": "Минск"
+      },
+      "url": "https://api.hh.ru/vacancies/24518294?host=hh.ru",
+      "created_at": "2018-03-06T16:56:16+0300",
+      "alternate_url": "https://hh.ru/vacancy/24518294",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=24518294",
+      "relations": [],
+      "employer": {
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/1816826.png",
+          "240": "https://hhcdn.ru/employer-logo/1816827.png",
+          "original": "https://hhcdn.ru/employer-logo-original/343640.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1045351",
+        "name": "И-Экс-Пи Кэпитал",
+        "url": "https://api.hh.ru/employers/1045351",
+        "alternate_url": "https://hh.ru/employer/1045351",
+        "id": "1045351",
+        "trusted": true
+      },
+      "response_letter_required": false,
+      "published_at": "2018-03-06T16:56:16+0300",
+      "address": {
+        "building": "36",
+        "city": "Минск",
+        "description": null,
+        "metro": null,
+        "metro_stations": [],
+        "raw": null,
+        "street": "Интернациональная улица",
+        "lat": 53.904554,
+        "lng": 27.561642,
+        "id": "1069422"
+      },
+      "department": null,
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "id": "24518294"
+    },
+    {
+      "salary": null,
+      "snippet": {
+        "requirement": "Свободное владение Java 7 и/или 8. Практическое владение языком SQL. Навыки проектирования и реализации сложных алгоритмов. Высшее техническое образование. ",
+        "responsibility": "Разработка бизнес-логики и back-end системы для поддержки приложения. Создание функциональных API. Проектирование и разработка единой библиотеки компонентов. "
+      },
+      "archived": false,
+      "premium": false,
+      "name": "Senior Java Developer",
+      "area": {
+        "url": "https://api.hh.ru/areas/1002",
+        "id": "1002",
+        "name": "Минск"
+      },
+      "url": "https://api.hh.ru/vacancies/24604673?host=hh.ru",
+      "created_at": "2018-03-06T16:56:16+0300",
+      "alternate_url": "https://hh.ru/vacancy/24604673",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=24604673",
+      "relations": [],
+      "employer": {
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/1816826.png",
+          "240": "https://hhcdn.ru/employer-logo/1816827.png",
+          "original": "https://hhcdn.ru/employer-logo-original/343640.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1045351",
+        "name": "И-Экс-Пи Кэпитал",
+        "url": "https://api.hh.ru/employers/1045351",
+        "alternate_url": "https://hh.ru/employer/1045351",
+        "id": "1045351",
+        "trusted": true
+      },
+      "response_letter_required": false,
+      "published_at": "2018-03-06T16:56:16+0300",
+      "address": {
+        "building": "36",
+        "city": "Минск",
+        "description": null,
+        "metro": null,
+        "metro_stations": [],
+        "raw": null,
+        "street": "Интернациональная улица",
+        "lat": 53.904554,
+        "lng": 27.561642,
+        "id": "1069422"
+      },
+      "department": null,
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "id": "24604673"
+    },
+    {
+      "salary": null,
+      "snippet": {
+        "requirement": "Высшее образование (неоконченное высшее). Опыт работы в сфере активных продаж. Приветствуется знание оконного, либо строительного рынков. Свободное владение ПК. ",
+        "responsibility": "Организация и проведение встреч с потенциальными клиентами. Консультирование клиентов по ассортименту продукции, условиям сотрудничества. Мониторинг территории, анализ деятельности конкурентов. "
+      },
+      "archived": false,
+      "premium": false,
+      "name": "Региональный менеджер отдела продаж",
+      "area": {
+        "url": "https://api.hh.ru/areas/66",
+        "id": "66",
+        "name": "Нижний Новгород"
+      },
+      "url": "https://api.hh.ru/vacancies/24352136?host=hh.ru",
+      "created_at": "2018-03-06T16:54:54+0300",
+      "alternate_url": "https://hh.ru/vacancy/24352136",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=24352136",
+      "relations": [],
+      "employer": {
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/1888342.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/1888343.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/361521.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1565723",
+        "name": "ОКНА PLAST+",
+        "url": "https://api.hh.ru/employers/1565723",
+        "alternate_url": "https://hh.ru/employer/1565723",
+        "id": "1565723",
+        "trusted": true
+      },
+      "response_letter_required": false,
+      "published_at": "2018-03-06T16:54:54+0300",
+      "address": {
+        "building": "47",
+        "city": "Нижний Новгород",
+        "description": null,
+        "metro": {
+          "line_name": "Автозаводская",
+          "station_id": "50.278",
+          "line_id": "50",
+          "lat": 56.313933,
+          "station_name": "Горьковская",
+          "lng": 43.99482
+        },
+        "metro_stations": [
+          {
+            "line_name": "Автозаводская",
+            "station_id": "50.278",
+            "line_id": "50",
+            "lat": 56.313933,
+            "station_name": "Горьковская",
+            "lng": 43.99482
+          }
+        ],
+        "raw": null,
+        "street": "Провиантская улица",
+        "lat": 56.318066,
+        "lng": 44.019183,
+        "id": "1013813"
+      },
+      "department": null,
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "id": "24352136"
+    },
+    {
+      "salary": {
+        "to": 85000,
+        "gross": false,
+        "from": 85000,
+        "currency": "RUR"
+      },
+      "snippet": {
+        "requirement": "Высшее техническое образование. Опыт разработки, внедрения и построения архитектуры БД не менее трех лет. Знание встроенного языка, языка запросов и...",
+        "responsibility": "Участие в новых проектах автоматизации. Участие во внедрении новых проектов. Сопровождение существующих конфигураций. Обновление типовых и не типовых конфигураций. "
+      },
+      "archived": false,
+      "premium": false,
+      "name": "Программист 1C",
+      "area": {
+        "url": "https://api.hh.ru/areas/4",
+        "id": "4",
+        "name": "Новосибирск"
+      },
+      "url": "https://api.hh.ru/vacancies/24390704?host=hh.ru",
+      "created_at": "2018-03-06T16:54:18+0300",
+      "alternate_url": "https://hh.ru/vacancy/24390704",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=24390704",
+      "relations": [],
+      "employer": {
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/2254799.png",
+          "240": "https://hhcdn.ru/employer-logo/2254800.png",
+          "original": "https://hhcdn.ru/employer-logo-original/453208.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2539329",
+        "name": "АЗИЯ АВТО УСТЬ-КАМЕНОГОРСК",
+        "url": "https://api.hh.ru/employers/2539329",
+        "alternate_url": "https://hh.ru/employer/2539329",
+        "id": "2539329",
+        "trusted": true
+      },
+      "response_letter_required": false,
+      "published_at": "2018-03-06T16:54:18+0300",
+      "address": {
+        "building": "51/1",
+        "city": "Новосибирск",
+        "description": null,
+        "metro": {
+          "line_name": "Ленинская",
+          "station_id": "52.294",
+          "line_id": "52",
+          "lat": 55.059291,
+          "station_name": "Заельцовская",
+          "lng": 82.912569
+        },
+        "metro_stations": [
+          {
+            "line_name": "Ленинская",
+            "station_id": "52.294",
+            "line_id": "52",
+            "lat": 55.059291,
+            "station_name": "Заельцовская",
+            "lng": 82.912569
+          }
+        ],
+        "raw": null,
+        "street": "улица Аэропорт",
+        "lat": 55.080529,
+        "lng": 82.900523,
+        "id": "771523"
+      },
+      "department": null,
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "id": "24390704"
+    },
+    {
+      "salary": {
+        "to": null,
+        "gross": true,
+        "from": 60000,
+        "currency": "RUR"
+      },
+      "snippet": {
+        "requirement": "Для нас важно: коммуникабельность, ответственность, целеустремленность, клиентоориентированность, терпеливость, активная жизненная позиция, позитивный настрой. От Вас потребуется:",
+        "responsibility": "Обработка заявок клиентов на продажу и на покупку. Консультирование клиентов по вопросам недвижимости. Проведение переговоров. Работа с Базой данных Компании."
+      },
+      "archived": false,
+      "premium": false,
+      "name": "Риэлтор",
+      "area": {
+        "url": "https://api.hh.ru/areas/41",
+        "id": "41",
+        "name": "Калининград"
+      },
+      "url": "https://api.hh.ru/vacancies/23596442?host=career.ru",
+      "created_at": "2018-03-06T16:53:36+0300",
+      "alternate_url": "https://career.ru/vacancy/23596442",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=23596442",
+      "relations": [],
+      "employer": {
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=761892",
+        "name": "ИНВЕНТ",
+        "url": "https://api.hh.ru/employers/761892",
+        "alternate_url": "https://hh.ru/employer/761892",
+        "id": "761892",
+        "trusted": true
+      },
+      "response_letter_required": false,
+      "published_at": "2018-03-06T16:53:36+0300",
+      "address": {
+        "building": "50",
+        "city": "Калининград",
+        "description": null,
+        "metro": null,
+        "metro_stations": [],
+        "raw": null,
+        "street": "Московский проспект",
+        "lat": 54.709278,
+        "lng": 20.505133,
+        "id": "621095"
+      },
+      "department": null,
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "id": "23596442"
+    },
+    {
+      "salary": null,
+      "snippet": {
+        "requirement": "Опыт работы руководителем в сфере недвижимости - от 2 лет (обязательно). Нацеленность на результат. Организаторские способности. Коммуникативные навыки. Взаимодействие с клиентами...",
+        "responsibility": "Руководство отделом продаж. Мониторинг и анализ рынка недвижимости. Обучение команды. Консультирование клиентов по вопросам недвижимости. Контроль за качеством оказываемых услуг. "
+      },
+      "archived": false,
+      "premium": false,
+      "name": "Руководитель отдела недвижимости",
+      "area": {
+        "url": "https://api.hh.ru/areas/41",
+        "id": "41",
+        "name": "Калининград"
+      },
+      "url": "https://api.hh.ru/vacancies/23734075?host=career.ru",
+      "created_at": "2018-03-06T16:53:29+0300",
+      "alternate_url": "https://career.ru/vacancy/23734075",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=23734075",
+      "relations": [],
+      "employer": {
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=761892",
+        "name": "ИНВЕНТ",
+        "url": "https://api.hh.ru/employers/761892",
+        "alternate_url": "https://hh.ru/employer/761892",
+        "id": "761892",
+        "trusted": true
+      },
+      "response_letter_required": false,
+      "published_at": "2018-03-06T16:53:29+0300",
+      "address": {
+        "building": "50",
+        "city": "Калининград",
+        "description": null,
+        "metro": null,
+        "metro_stations": [],
+        "raw": null,
+        "street": "Московский проспект",
+        "lat": 54.709278,
+        "lng": 20.505133,
+        "id": "621095"
+      },
+      "department": null,
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "id": "23734075"
+    },
+    {
+      "salary": {
+        "to": null,
+        "gross": true,
+        "from": 50000,
+        "currency": "RUR"
+      },
+      "snippet": {
+        "requirement": "Для нас важно: коммуникабельность, ответственность, целеустремленность, клиентоориентированность, терпеливость, активная жизненная позиция, позитивный настрой. Мы предлагаем: 19-лет опыта самых сложных...",
+        "responsibility": "Самая большая база данных, в том числе эксклюзивные объекты и клиенты. Обработка заявок клиентов на продажу и на покупку. "
+      },
+      "archived": false,
+      "premium": false,
+      "name": "Риэлтор по работе с недвижимостью",
+      "area": {
+        "url": "https://api.hh.ru/areas/41",
+        "id": "41",
+        "name": "Калининград"
+      },
+      "url": "https://api.hh.ru/vacancies/23595693?host=hh.ru",
+      "created_at": "2018-03-06T16:53:18+0300",
+      "alternate_url": "https://hh.ru/vacancy/23595693",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=23595693",
+      "relations": [],
+      "employer": {
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=761892",
+        "name": "ИНВЕНТ",
+        "url": "https://api.hh.ru/employers/761892",
+        "alternate_url": "https://hh.ru/employer/761892",
+        "id": "761892",
+        "trusted": true
+      },
+      "response_letter_required": false,
+      "published_at": "2018-03-06T16:53:18+0300",
+      "address": {
+        "building": "50",
+        "city": "Калининград",
+        "description": null,
+        "metro": null,
+        "metro_stations": [],
+        "raw": null,
+        "street": "Московский проспект",
+        "lat": 54.709278,
+        "lng": 20.505133,
+        "id": "621095"
+      },
+      "department": null,
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "id": "23595693"
+    },
+    {
+      "salary": null,
+      "snippet": {
+        "requirement": "Опыт работы руководителем в сфере недвижимости - от 2 лет (обязательно). Нацеленность на результат. Организаторские способности. Коммуникативные навыки. Взаимодействие с клиентами...",
+        "responsibility": "Руководство отделом продаж. Мониторинг и анализ рынка недвижимости. Обучение команды. Консультирование клиентов по вопросам недвижимости. Контроль за качеством оказываемых услуг. "
+      },
+      "archived": false,
+      "premium": false,
+      "name": "Руководитель отдела недвижимости",
+      "area": {
+        "url": "https://api.hh.ru/areas/41",
+        "id": "41",
+        "name": "Калининград"
+      },
+      "url": "https://api.hh.ru/vacancies/23595712?host=career.ru",
+      "created_at": "2018-03-06T16:53:13+0300",
+      "alternate_url": "https://career.ru/vacancy/23595712",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=23595712",
+      "relations": [],
+      "employer": {
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=761892",
+        "name": "ИНВЕНТ",
+        "url": "https://api.hh.ru/employers/761892",
+        "alternate_url": "https://hh.ru/employer/761892",
+        "id": "761892",
+        "trusted": true
+      },
+      "response_letter_required": false,
+      "published_at": "2018-03-06T16:53:13+0300",
+      "address": {
+        "building": "50",
+        "city": "Калининград",
+        "description": null,
+        "metro": null,
+        "metro_stations": [],
+        "raw": null,
+        "street": "Московский проспект",
+        "lat": 54.709278,
+        "lng": 20.505133,
+        "id": "621095"
+      },
+      "department": null,
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "id": "23595712"
+    },
+    {
+      "salary": {
+        "to": null,
+        "gross": true,
+        "from": 30000,
+        "currency": "RUR"
+      },
+      "snippet": {
+        "requirement": "Желателен опыт активных продаж. Умение читать проектную документацию приветствуется. Опытный пользователь ПК (Excel). Коммуникабельность, активная жизненная позиция, нацеленность на результат. ",
+        "responsibility": "Консультирование клиентов по объектам-новостройкам в офисе и по телефону. Назначение встреч и показы квартир на стройках клиентам покупателям. "
+      },
+      "archived": false,
+      "premium": false,
+      "name": "Специалист по продаже новостроек",
+      "area": {
+        "url": "https://api.hh.ru/areas/41",
+        "id": "41",
+        "name": "Калининград"
+      },
+      "url": "https://api.hh.ru/vacancies/23596732?host=hh.ru",
+      "created_at": "2018-03-06T16:53:04+0300",
+      "alternate_url": "https://hh.ru/vacancy/23596732",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=23596732",
+      "relations": [],
+      "employer": {
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=761892",
+        "name": "ИНВЕНТ",
+        "url": "https://api.hh.ru/employers/761892",
+        "alternate_url": "https://hh.ru/employer/761892",
+        "id": "761892",
+        "trusted": true
+      },
+      "response_letter_required": false,
+      "published_at": "2018-03-06T16:53:04+0300",
+      "address": {
+        "building": "50",
+        "city": "Калининград",
+        "description": null,
+        "metro": null,
+        "metro_stations": [],
+        "raw": null,
+        "street": "Московский проспект",
+        "lat": 54.709278,
+        "lng": 20.505133,
+        "id": "621095"
+      },
+      "department": null,
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "id": "23596732"
+    },
+    {
+      "salary": {
+        "to": null,
+        "gross": true,
+        "from": 100000,
+        "currency": "RUR"
+      },
+      "snippet": {
+        "requirement": "Все ваши лучшие деловые и человеческие качества. Опыт работы!!!!!!!!!! Искреннее желание и стремление много работать и много зарабатывать. ",
+        "responsibility": "Работа с VIP- клиентами компании. Презентация риэлторской услуги. Заключение договоров. Ведение переговоров с клиентами. Продажа элитной недвижимости в Калининграде и..."
+      },
+      "archived": false,
+      "premium": false,
+      "name": "Специалист по продаже элитной недвижимости",
+      "area": {
+        "url": "https://api.hh.ru/areas/41",
+        "id": "41",
+        "name": "Калининград"
+      },
+      "url": "https://api.hh.ru/vacancies/23596780?host=hh.ru",
+      "created_at": "2018-03-06T16:52:59+0300",
+      "alternate_url": "https://hh.ru/vacancy/23596780",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=23596780",
+      "relations": [],
+      "employer": {
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=761892",
+        "name": "ИНВЕНТ",
+        "url": "https://api.hh.ru/employers/761892",
+        "alternate_url": "https://hh.ru/employer/761892",
+        "id": "761892",
+        "trusted": true
+      },
+      "response_letter_required": false,
+      "published_at": "2018-03-06T16:52:59+0300",
+      "address": {
+        "building": "50",
+        "city": "Калининград",
+        "description": null,
+        "metro": null,
+        "metro_stations": [],
+        "raw": null,
+        "street": "Московский проспект",
+        "lat": 54.709278,
+        "lng": 20.505133,
+        "id": "621095"
+      },
+      "department": null,
+      "sort_point_distance": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "id": "23596780"
+    }
+  ],
+  "pages": 100,
+  "arguments": null,
+  "found": 30,
+  "alternate_url": "https://hh.ru/search/vacancy?enable_snippets=true",
+  "per_page": 20,
+  "page": 0
+}
