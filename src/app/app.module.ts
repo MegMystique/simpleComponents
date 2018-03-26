@@ -1,6 +1,6 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-
+import { NgStickyDirective } from 'ng-sticky';
 
 import { AppComponent } from './app.component';
 import { AutocompleteComponent } from './autocomplete/autocomplete.component';
@@ -12,6 +12,7 @@ import { TreeChildComponent } from './tree/tree-child/tree-child.component';
 import {AngularFontAwesomeModule} from 'angular-font-awesome';
 import { VacanciesComponent } from './vacancies/vacancies.component';
 import { VacancyComponent } from './vacancies/vacancy/vacancy.component';
+import { TicTacToeComponent } from './tic-tac-toe/tic-tac-toe.component';
 
 
 @NgModule({
@@ -21,7 +22,9 @@ import { VacancyComponent } from './vacancies/vacancy/vacancy.component';
     TreeComponent,
     TreeChildComponent,
     VacanciesComponent,
-    VacancyComponent
+    VacancyComponent,
+    NgStickyDirective,
+    TicTacToeComponent
   ],
   imports: [
     BrowserModule,

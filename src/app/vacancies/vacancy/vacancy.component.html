@@ -1,4 +1,5 @@
-<h1 class="display-4">{{vacancy.name}}</h1>
+<h1 class="display-4">{{vacancy.name}}{{name}}</h1>
+<input [(ngModel)]="name" type="text" name="name">
 <span *ngIf="vacancy.type">{{vacancy.type.name}}</span>
 <mark *ngIf="vacancy.salary">{{vacancy.salary.from}} {{vacancy.salary.currency}}</mark>
 <blockquote class="blockquote" *ngIf="vacancy.snippet">

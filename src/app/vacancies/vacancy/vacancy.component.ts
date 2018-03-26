@@ -7,6 +7,7 @@ import {Component, Input, OnInit} from '@angular/core';
 })
 export class VacancyComponent implements OnInit {
   @Input() vacancy;
+  name;
   constructor() { }
 
   ngOnInit() {

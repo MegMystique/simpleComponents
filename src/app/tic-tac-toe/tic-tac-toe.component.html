@@ -1,0 +1,9 @@
+<p>
+  tic-tac-toe works!
+</p>
+<div>Ход {{symbol}}</div>
+<span *ngFor="let btn of board; let i = index"><button style="width: 200px; height: 200px; font-size: 100px;"
+                                                       (click)="checkBtn(i)" [disabled]="btn!=='_'|| result ==='WIN'">{{btn}}</button> <br
+  *ngIf="(i+1)%3===0"></span>
+<div *ngIf="result">{{result}}</div>
+<button *ngIf="result ==='WIN'" (click)="resetGame()">Restart</button>
