@@ -6,36 +6,87 @@ import {Component, OnInit} from '@angular/core';
   styleUrls: ['./tic-tac-toe.component.css']
 })
 export class TicTacToeComponent implements OnInit {
-  board: Array<String> ;
+  board: Array<any>;
   symbol: String = 'x';
   result: String;
+  clicks = 0;
 
   constructor() {
   }
 
   ngOnInit() {
-    this.board = ['_', '_', '_', '_', '_', '_', '_', '_', '_'];
+    this.board = [{type: null, name: '_'}, {type: null, name: '_'}, {type: null, name: '_'}, {type: null, name: '_'},
+      {type: null, name: '_'}, {type: null, name: '_'}, {type: null, name: '_'}, {type: null, name: '_'}, {type: null, name: '_'}];
   }
 
   checkBtn(i) {
-    this.board[i] = this.symbol;
+    this.board[i].name = this.symbol;
+    this.clicks += 1;
+    if (this.clicks === 9) {
+      this.result = 'NO WINNER';
+    }
     this.symbol = this.symbol === 'x' ? 'o' : 'x';
-    console.log(this.board[0] , this.board[1] , this.board[2]);
-    if (this.board[0] === this.board[1] && this.board[1] === this.board[2]  && this.board[2] !== '_' ||
-    (this.board[3] === this.board[4] && this.board[4] === this.board[5] && this.board[5] !== '_') ||
-    (this.board[6] === this.board[7] && this.board[7] === this.board[8] && this.board[8] !== '_') ||
-    (this.board[0] === this.board[3] && this.board[3] === this.board[6] && this.board[6] !== '_') ||
-    (this.board[1] === this.board[4] && this.board[4] === this.board[7] && this.board[7] !== '_') ||
-    (this.board[2] === this.board[5] && this.board[5] === this.board[8] && this.board[8] !== '_') ||
-    (this.board[0] === this.board[4] && this.board[4] === this.board[8] && this.board[8] !== '_') )     {
+    if (this.board[0].name === this.board[1].name && this.board[1].name === this.board[2].name && this.board[2].name !== '_') {
       this.result = 'WIN';
+      this.board[0].type = true;
+      this.board[1].type = true;
+      this.board[2].type = true;
+    }
+    if (this.board[3].name === this.board[4].name && this.board[4].name === this.board[5].name && this.board[5].name !== '_') {
+      this.result = 'WIN';
+      this.board[3].type = true;
+      this.board[4].type = true;
+      this.board[5].type = true;
+    }
+    if
+    (this.board[6].name === this.board[7].name && this.board[7].name === this.board[8].name && this.board[8].name !== '_') {
+      this.result = 'WIN';
+      this.board[6].type = true;
+      this.board[7].type = true;
+      this.board[8].type = true;
+    }
+    if
+    (this.board[0].name === this.board[3].name && this.board[3].name === this.board[6].name && this.board[6].name !== '_') {
+      this.result = 'WIN';
+      this.board[0].type = true;
+      this.board[3].type = true;
+      this.board[6].type = true;
+    }
+    if
+    (this.board[1].name === this.board[4].name && this.board[4].name === this.board[7].name && this.board[7].name !== '_') {
+      this.result = 'WIN';
+      this.board[1].type = true;
+      this.board[4].type = true;
+      this.board[7].type = true;
+    }
+    if
+    (this.board[2].name === this.board[5].name && this.board[5].name === this.board[8].name && this.board[8].name !== '_') {
+      this.result = 'WIN';
+      this.board[2].type = true;
+      this.board[5].type = true;
+      this.board[8].type = true;
+    }
+    if
+    (this.board[2].name === this.board[4].name && this.board[4].name === this.board[6].name && this.board[6].name !== '_') {
+      this.result = 'WIN';
+      this.board[2].type = true;
+      this.board[4].type = true;
+      this.board[6].type = true;
+    }
+    if
+    (this.board[0].name === this.board[4].name && this.board[4].name === this.board[8].name && this.board[8].name !== '_') {
+      this.result = 'WIN';
+      this.board[0].type = true;
+      this.board[4].type = true;
+      this.board[8].type = true;
     }
   }
 
   resetGame() {
-    this.board = ['_', '_', '_', '_', '_', '_', '_', '_', '_'];
+    this.board = [{type: null, name: '_'}, {type: null, name: '_'}, {type: null, name: '_'}, {type: null, name: '_'},
+      {type: null, name: '_'}, {type: null, name: '_'}, {type: null, name: '_'}, {type: null, name: '_'}, {type: null, name: '_'}];
     this.result = null;
     this.symbol = 'x';
-    // добавить ничью
+    this.clicks = 0;
   }
 }

@@ -1,0 +1,22 @@
+.win {
+  background-color: green !important;
+  color: white;
+}
+
+button {
+  margin-bottom: 4px;
+  width: 170px;
+  height: 170px;
+  font-size: 100px;
+}
+.restart{
+  width: auto;
+  height: auto;
+  font-size: 40px;
+}
+.x_class{
+  background-color: lightblue;
+}
+.o_class{
+  background-color: lightcoral;
+}
