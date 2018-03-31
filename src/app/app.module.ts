@@ -13,7 +13,8 @@ import {AngularFontAwesomeModule} from 'angular-font-awesome';
 import { VacanciesComponent } from './vacancies/vacancies.component';
 import { VacancyComponent } from './vacancies/vacancy/vacancy.component';
 import { TicTacToeComponent } from './tic-tac-toe/tic-tac-toe.component';
-
+import { ScrollComponent } from './scroll/scroll.component';
+import { VirtualListModule } from 'angular-virtual-list';
 
 @NgModule({
   declarations: [
@@ -24,13 +25,15 @@ import { TicTacToeComponent } from './tic-tac-toe/tic-tac-toe.component';
     VacanciesComponent,
     VacancyComponent,
     NgStickyDirective,
-    TicTacToeComponent
+    TicTacToeComponent,
+    ScrollComponent
   ],
   imports: [
     BrowserModule,
     HttpClientModule,
     FormsModule,
-    AngularFontAwesomeModule
+    AngularFontAwesomeModule,
+    VirtualListModule
   ],
   providers: [DataService],
   bootstrap: [AppComponent]

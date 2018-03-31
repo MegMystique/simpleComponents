@@ -17,7 +17,7 @@ export class DataService {
     };
   }
   getSomething() {
-    this.http.get(this.configUrl, this.httpOptions).subscribe(res => {this.result = res; });
+    this.http.get(this.configUrl, this.httpOptions).subscribe(res => {this.result = res; this.streamData.next(this.result); });
   }
   search(searchText) {
     this.streamData.next(this.result.filter(item => item.title.toLowerCase().includes(searchText.toLowerCase())).slice());

@@ -1,0 +1,13 @@
+<p>
+  scroll works!
+</p>
+<div style="background-color: aquamarine;" >
+<virtual-list [source$]="items$" (update)="viewPortItems = $event" (end)="fetchMore($event)">
+
+  <div *ngFor="let item of viewPortItems"><strong>{{item?.name}}</strong>
+    <div *ngIf="item.snippet.reguirement">{{item.snippet.reguirement}}</div>
+    <blockquote *ngIf="item.snippet.responsibility">{{item.snippet.responsibility}}</blockquote>
+  </div>
+  <div *ngIf="loading" class="loader">Loading...</div>
+</virtual-list>
+</div>
